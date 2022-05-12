@@ -1,0 +1,2 @@
+71308	Special switcher	Replaces the value of the values of the damage and skill damage on the item. The item disappears after usage.
+71309	Special switcher+	Replaces the value of the values of the damage and skill damage on the item to the highest level.	The item disappears after usage.

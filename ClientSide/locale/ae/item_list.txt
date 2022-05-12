@@ -1,0 +1,2 @@
+71308	ETC	icon/item/71308.tga
+71309	ETC	icon/item/71309.tga
